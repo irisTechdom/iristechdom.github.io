@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![irisliu9601](https://img.shields.io/badge/irisliu-github-blue?logo=github)](https://github.com/irisTechdom)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+She is currently self-learning software development technology through the Internet.
 
 #### Email
-sli[at]cumt.edu.cn
+iris152568@gmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Chinese International Education, Nanchang University, 2013—2017.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Software Development,Foreign Language Learning.
 
